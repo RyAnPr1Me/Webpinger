@@ -1,0 +1,12 @@
+{
+  "name": "website-pinger",
+  "version": "1.0.0",
+  "description": "Website Pinger",
+  "main": "index.html",
+  "scripts": {},
+  "author": "WEBSITE PINGER",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
