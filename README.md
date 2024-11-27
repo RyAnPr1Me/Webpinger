@@ -1,1 +1,1 @@
-tried to make a webponger thing cuz i was bored,turns out i suck ass ag coding so it doesnt work
+tried to make a webpinger thing cuz i was bored,turns out i suck ass at coding so it doesnt work
